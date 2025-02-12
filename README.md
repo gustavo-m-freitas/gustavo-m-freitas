@@ -1,8 +1,8 @@
-# 👋 Hello, I'm Gustavo Freitas!
+# Gustavo Freitas
 
 📊 **Economist | Data Scientist | Machine Learning Enthusiast**  
 
-I am an economist with a master's degree in Finance from the University of Minho and solid experience in the financial market. In recent years, I have shifted my career towards **Data Science and Machine Learning**, applying statistical techniques and programming to generate strategic insights.
+I am an economist with a master's degree in Finance from the University of Minho and solid experience in the financial market. I also started a PhD in Economics, which is currently on hold. In recent years, I have shifted my career towards **Data Science and Machine Learning**, applying statistical techniques and programming to generate strategic insights.
 
 I have experience with **Python and R**, predictive modeling, and time series analysis, focusing on financial market volatility forecasting. I have developed solutions for quantitative analysis, financial consulting, and process optimization.
 
