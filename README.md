@@ -19,7 +19,7 @@ I have experience with **Python and R**, predictive modeling, and time series an
 
 ## 🚀 Featured Projects
 
-🔹 **[Volatility Forecasting with HAR-Type Models](https://https://github.com/gustavo-m-freitas/MSc-Thesis-R)**  
+🔹 **[Volatility Forecasting with HAR-Type Models](https://github.com/gustavo-m-freitas/MSc-Thesis-R)**  
 📊 Statistical model for forecasting financial market volatility using R and econometrics.
 
 ---
