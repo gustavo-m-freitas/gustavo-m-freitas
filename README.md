@@ -10,10 +10,11 @@ I have experience with **Python and R**, predictive modeling, and time series an
 
 ## 🔧 Technical Skills
 
-📌 **Programming Languages:** Python, R, SQL  
-📌 **Data Science & Machine Learning:** Statistics, Predictive Models, Time Series
-📌 **Web Development:** Python (Django), APIs, Data-Driven Applications  
-📌 **Finance & Economics:** Financial Modeling, Valuation, Risk Analysis, Business Strategy  
+📌 **Programming Languages:** Python, R, SQL <br>
+📌 **Data Science & Machine Learning:** Statistics, Predictive Models, Time Series <br>
+📌 **Web Development:** Python (Django), APIs, Data-Driven Applications <br>
+📌 **Finance & Economics:** Financial Modeling, Valuation, Risk Analysis, Business Strategy <br>
+
 
 ---
 
