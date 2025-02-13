@@ -22,6 +22,9 @@ I have experience with **Python and R**, predictive modeling, and time series an
 🔹 **[Volatility Forecasting with HAR-Type Models](https://github.com/gustavo-m-freitas/MSc-Thesis-R)**  
 📊 Statistical model for forecasting financial market volatility using R and econometrics.
 
+🔹 **[Provento-Manager](https://github.com/gustavo-m-freitas/Provento-Manager)**  
+📊 A web application for startup acceleration and mentorship management.  
+
 ---
 
 ## 📫 Contact & Links
