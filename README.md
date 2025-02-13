@@ -4,11 +4,7 @@
 
 I am an economist with a master's degree in Finance from the University of Minho and solid experience in the financial market. I also started a PhD in Economics, which is currently on hold. In recent years, I have shifted my career towards **Data Science and Machine Learning**, applying statistical techniques and programming to generate strategic insights.
 
-I have experience with **Python and R**, predictive modeling, and time series analysis, focusing on financial market volatility forecasting. I have developed solutions for quantitative analysis, financial consulting, and process optimization.
-
-Additionally, I created **Provento Gestor**, a web application built with **Python and Django** for managing startup acceleration programs. I have also developed **Machine Learning and Data Science** projects, including volatility analysis and financial fraud detection.
-
-📍 I am currently seeking new opportunities to apply my expertise in **Data Science and Artificial Intelligence** to real-world challenges.
+I have experience with **Python and R**, predictive modeling, and time series analysis, focusing on financial market volatility forecasting. I have developed solutions for quantitative analysis, financial consulting, and process optimization. Additionally, I created **Provento Gestor**, a web application built with **Python and Django** for managing startup acceleration programs. 
 
 ---
 
@@ -23,10 +19,8 @@ Additionally, I created **Provento Gestor**, a web application built with **Pyth
 
 ## 🚀 Featured Projects
 
-🔹 **[Volatility Forecasting with HAR-Type Models](https://github.com/gustavomfreitas/volatility-forecast)**  
+🔹 **[Volatility Forecasting with HAR-Type Models](https://https://github.com/gustavo-m-freitas/MSc-Thesis-R)**  
 📊 Statistical model for forecasting financial market volatility using R and econometrics.
-
-
 
 ---
 
