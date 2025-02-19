@@ -1,6 +1,6 @@
 # Gustavo Freitas
 
-📊 **Data Scientist | Financial Analyst | Quantitative Analyst | Data-Driven Solutions Developer**  
+📊 **Data Scientist | Financial & Business Analyst | Data-Driven Solutions Developer | Product Operations**  
 
 I am an economist with a **master's degree in Finance from the University of Minho** and a solid background in **financial markets, data analytics, and operational strategy**. I also started a **PhD in Economics**, which is currently on hold. As a **certified investment analyst (CNPI)**, I have worked extensively with **financial statement analysis, valuation, and investment strategies**. Over time, I expanded my expertise beyond financial analysis, evolving into a **Data Scientist and Financial & Business Analyst**, integrating **statistical modeling, machine learning, and automation** to develop **scalable, data-driven solutions** that optimize **business operations and performance**.  
 
