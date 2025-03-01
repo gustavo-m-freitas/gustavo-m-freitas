@@ -26,6 +26,9 @@ Building on my background in finance, I specialize in **Product Operations and D
 🔹 **[Provento-Manager](https://github.com/gustavo-m-freitas/Provento-Manager)**  
 📊 A web application for startup acceleration and mentorship management.  
 
+🔹 **[Bankruptcy Prediction](https://github.com/gustavo-m-freitas/Bankruptcy-Prediction)**  
+📊 Predicting corporate financial distress using **machine learning** and **financial data analysis**. Implements **Random Forest, XGBoost, SVM**, and more to classify bankrupt vs. non-bankrupt companies.  
+
 ---
 
 ## 📫 Contact & Links
