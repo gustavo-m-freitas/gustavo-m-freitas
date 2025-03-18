@@ -20,18 +20,20 @@ Building on my background in finance, I specialize in **Product Operations and D
 
 ## 🚀 Featured Projects
 
-🔹 **[Volatility Forecasting with HAR-Type Models](https://github.com/gustavo-m-freitas/MSc-Thesis-R)**  
-📊 Statistical model for forecasting financial market volatility using R and econometrics.
+- **[Volatility Forecasting with HAR-Type Models](https://github.com/gustavo-m-freitas/MSc-Thesis-R)**  
+  📊 Statistical model for forecasting financial market volatility using R and econometrics.
 
-🔹 **[Provento-Manager](https://github.com/gustavo-m-freitas/Provento-Manager)**  
-📊 A web application for startup acceleration and mentorship management.
+- **[Provento-Manager](https://github.com/gustavo-m-freitas/Provento-Manager)**  
+  📈 A web application for startup acceleration and mentorship management.
 
-🔹 **[Bankruptcy Prediction](https://github.com/gustavo-m-freitas/Bankruptcy-Prediction)**  
-📊 Predicting corporate financial distress using **machine learning** and **financial data analysis**. Implements **Random Forest, XGBoost, SVM**, and more to classify bankrupt vs. non-bankrupt companies.
+- **[Bankruptcy Prediction](https://github.com/gustavo-m-freitas/Bankruptcy-Prediction)**  
+  💰 Predicting corporate financial distress using **machine learning** and **financial data analysis**. Implements **Random Forest, XGBoost, SVM**, and more to classify bankrupt vs. non-bankrupt companies.
 
-🔹 **[Bank Customer Churn Prediction](https://github.com/gustavo-m-freitas/Bank-Churn)**  
-📊 Predicting customer churn in the banking sector using **machine learning** and **customer data analysis**. Models compared include **Random Forest, XGBoost**, and **SVM**, with an emphasis on optimizing recall over accuracy for better retention strategies.  
+- **[Bank Customer Churn Prediction](https://github.com/gustavo-m-freitas/Bank-Churn)**  
+  🏦 Predicting customer churn in the banking sector using **machine learning** and **customer data analysis**. Models compared include **Random Forest, XGBoost**, and **SVM**, with an emphasis on optimizing recall over accuracy for better retention strategies.
 
+- **[Telecom Customer Churn Prediction](https://github.com/gustavo-m-freitas/Telecom_Churn)**  
+  📡 Predicting customer churn in the telecom industry using **machine learning** and **feature selection techniques**. Implements **Random Forest, XGBoost, and CatBoost**, with **data balancing (SMOTE, undersampling)** and **hyperparameter tuning** to maximize recall and identify at-risk customers.
 
 ---
 
