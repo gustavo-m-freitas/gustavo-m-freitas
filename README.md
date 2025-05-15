@@ -1,10 +1,10 @@
 # Gustavo Freitas
 
-📊 **Data Scientist | Financial & Business Analyst | Data-Driven Solutions Developer | Product Operations**  
+📈 **Financial & FP&A Analyst | Business Intelligence & Data Science | Data-Driven Business Solutions**
 
-I am an economist with a **master's degree in Finance from the University of Minho** and a solid background in **financial markets, data analytics, and operational strategy**. I also started a **PhD in Economics**, which is currently on hold. As a **certified investment analyst (CNPI)**, I have worked extensively with **financial statement analysis, valuation, and investment strategies**. Over time, I expanded my expertise beyond financial analysis, evolving into a **Data Scientist and Financial & Business Analyst**, integrating **statistical modeling, machine learning, and automation** to develop **scalable, data-driven solutions** that optimize **business operations and performance**.  
+🎓 **Economist with a Master's degree in Finance from the University of Minho** and **PhD studies in Economics (currently on hold)**, with **former certification as an Investment Analyst (CNPI – Brazil)** and **current credential as a Financial Modeling & Valuation Analyst (FMVA® – CFI)**. Experienced in **corporate finance, FP&A, and investment analysis**, with strong skills in **financial modeling and valuation**. Proficient in **KPI development, scenario analysis**, and **translating financial insights into strategic business actions**.
 
-Building on my background in finance, I specialize in **Product Operations and Data-Driven Solutions Development**, applying **advanced analytics** to solve **business challenges, improve decision-making, and streamline workflows**. My expertise includes **predictive modeling, time series forecasting, and business intelligence**, leveraging **Python, R, and statistical methodologies** to develop **analytical tools, dashboards, and performance-tracking systems**. Through **structured methodologies and process automation**, I help organizations **enhance efficiency, optimize financial strategies, and drive sustainable growth**.
+📊 Skilled in **quantitative finance and economic forecasting**, leveraging **Python, R, and machine learning** to enhance **data-driven decision-making**. Combines **extensive professional experience** with **advanced analytics training**, including the **IBM Data Science Professional Certificate** and **Business Intelligence & Data Analyst (BIDA® – CFI)**, to deliver robust **predictive analytics, time series forecasting, automated reporting**, and **business intelligence solutions (Power BI, Tableau)** designed to **optimize financial performance, enhance profitability**, and **improve operational efficiency**.
 
 ---
 
