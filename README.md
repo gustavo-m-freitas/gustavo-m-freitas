@@ -8,13 +8,13 @@
 
 ---
 
-## 🔧 Technical Skills
+🔧 **Technical Skills**
 
-📌 **Programming Languages:** Python, R, SQL <br>
-📌 **Data Science & Machine Learning:** Statistics, Predictive Models, Time Series <br>
-📌 **Web Development:** Python (Django), APIs, Data-Driven Applications <br>
-📌 **Finance & Economics:** Financial Modeling, Valuation, Risk Analysis, Business Strategy <br>
-
+📌 **Financial Modeling & FP&A:** Valuation (DCF, Multiples), integrated financial statements (P&L, Balance Sheet, Cash Flow), FP&A practices (scenario & sensitivity analysis, budgeting, forecasting, capital allocation, KPI tracking) <br>
+📌 **Programming & Automation:** Excel (advanced), Power Query, Python, R, SQL – applied to forecasting, modeling, reporting, and financial dashboards <br>
+📌 **Data Science & Machine Learning:** Statistics, Predictive Models, Time Series, Data Visualization <br>
+📌 **Business Intelligence & Data Analysis:** Power BI, Tableau, Azure Data Studio, ETL/ELT <br>
+📌 **Web & Data-Driven Applications:** Python (Django), APIs, Automation, Business Intelligence <br>
 
 ---
 
