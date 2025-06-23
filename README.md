@@ -1,6 +1,6 @@
 # Gustavo Freitas
 
-📈 **Financial & FP&A Analyst | Quantitative Finance | Business Intelligence & Data Science**
+📈 **Financial & FP&A Analyst | Quantitative Finance | Data Science**
 
 🎓 **Economist with a Master's degree in Finance from the University of Minho** and **PhD studies in Economics (currently on hold)**, with **former certification as an Investment Analyst (CNPI – Brazil)** and **current credential as a Financial Modeling & Valuation Analyst (FMVA® – CFI)**. Experienced in **corporate finance, FP&A, and investment analysis**, with strong skills in **financial modeling and valuation**. Proficient in **KPI development, scenario analysis**, and **translating financial insights into strategic business actions**.
 
