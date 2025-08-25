@@ -2,10 +2,10 @@
 
 📈 **Finance Transformation | Digital Finance | Quantitative Finance**
 
-** Finance professional with a solid background in corporate finance, consulting, and quantitative methods, specialized in Finance Transformation and process optimization. Combines over a decade of experience in financial consulting with advanced technical skills in automation, analytics, and financial systems. Holds a Bachelor’s degree in Economics, a Master’s in Finance from the University of Minho, and pursued PhD studies in Economics (currently on hold). Formerly certified as an Investment Analyst (CNPI – Brazil), with current international credentials as FMVA® and FP&A™ (Corporate Finance Institute).
+Finance professional with a solid background in corporate finance, consulting, and quantitative methods, specialized in Finance Transformation and process optimization. Combines over a decade of experience in financial consulting with advanced technical skills in automation, analytics, and financial systems. Holds a Bachelor’s degree in Economics, a Master’s in Finance from the University of Minho, and pursued PhD studies in Economics (currently on hold). Formerly certified as an Investment Analyst (CNPI – Brazil), with current international credentials as FMVA® and FP&A™ (Corporate Finance Institute).
 
 Proven ability to translate financial language into digital solutions, redesign reporting processes, and develop KPI frameworks to enhance decision-making. Skilled in business partnering, financial modeling, FP&A, and valuation, complemented by hands-on expertise in Python, R, SQL, and BI tools (Power BI, Tableau). Additional training includes IBM certifications in data analytics and automation and CFI’s Business Intelligence & Data Analyst program, strengthening capabilities in financial data transformation. Experienced in applying data analytics and machine learning techniques in finance projects, including automation of forecasting and dashboard solutions. Positioned to drive finance transformation and digital finance initiatives in global organizations, bridging financial strategy, technology, and business transformation.
-**
+
 
 ---
 
