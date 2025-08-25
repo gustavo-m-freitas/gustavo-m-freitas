@@ -1,10 +1,11 @@
 # Gustavo Freitas
 
-📈 **FP&A | Quantitative Finance | Data Science**
+📈 **Finance Transformation | Digital Finance | Quantitative Finance**
 
-🎓 **Economist with a Master's degree in Finance from the University of Minho** and **PhD studies in Economics (currently on hold)**, with **former certification as an Investment Analyst (CNPI – Brazil)** and **current credential as a Financial Modeling & Valuation Analyst (FMVA® – CFI)**. Experienced in **corporate finance, FP&A, and investment analysis**, with strong skills in **financial modeling and valuation**. Proficient in **KPI development, scenario analysis**, and **translating financial insights into strategic business actions**.
+**Finance professional with a solid background in corporate finance, consulting, and quantitative methods, specialized in Finance Transformation and process optimization. Combines over a decade of experience in financial consulting with advanced technical skills in automation, analytics, and financial systems. Holds a Bachelor’s degree in Economics, a Master’s in Finance from the University of Minho, and pursued PhD studies in Economics (currently on hold). Formerly certified as an Investment Analyst (CNPI – Brazil), with current international credentials as FMVA® and FP&A™ (Corporate Finance Institute).
 
-📊 Skilled in **quantitative finance and economic forecasting**, leveraging **Python, R, and machine learning** to enhance **data-driven decision-making**. Combines **extensive professional experience** with **advanced analytics training**, including the **IBM Data Science Professional Certificate** and **Business Intelligence & Data Analyst (BIDA® – CFI)**, to deliver robust **predictive analytics, time series forecasting, automated reporting**, **interactive dashboards**, and **business intelligence solutions (Power BI, Tableau)** designed to **optimize financial performance, enhance profitability**, and **improve operational efficiency**.
+Proven ability to translate financial language into digital solutions, redesign reporting processes, and develop KPI frameworks to enhance decision-making. Skilled in business partnering, financial modeling, FP&A, and valuation, complemented by hands-on expertise in Python, R, SQL, and BI tools (Power BI, Tableau). Additional training includes IBM certifications in data analytics and automation and CFI’s Business Intelligence & Data Analyst program, strengthening capabilities in financial data transformation. Experienced in applying data analytics and machine learning techniques in finance projects, including automation of forecasting and dashboard solutions. Positioned to drive finance transformation and digital finance initiatives in global organizations, bridging financial strategy, technology, and business transformation.
+**
 
 ---
 
