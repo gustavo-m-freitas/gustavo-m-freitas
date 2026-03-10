@@ -46,7 +46,9 @@ The project demonstrates how modern finance teams can move from spreadsheet-base
 
 - **📈 [Volatility Forecasting with HAR-Type Models](https://github.com/gustavo-m-freitas/MSc-Thesis-R)**
 
-Statistical model for forecasting financial market volatility using R and econometrics.
+Master’s thesis in Finance (University of Minho) investigating **financial market volatility forecasting** using **HAR-type econometric models** implemented in **R**.  
+
+The research evaluates **16 variations of HAR-based models** applied to **FTSE-100 realized volatility**, incorporating jumps, signed jumps, realized semivariance, and leverage effects, with model performance assessed through multiple loss functions and statistical validation techniques.
 
 - **🚀[Provento-Manager](https://github.com/gustavo-m-freitas/Provento-Manager)**
   
