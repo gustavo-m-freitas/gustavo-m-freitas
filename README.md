@@ -30,7 +30,7 @@ Power BI, Tableau, dashboard design, financial performance monitoring, executive
 
 ## 🚀 Featured Projects
 
-- **📊 [Digital Finance Forecasting & Analytics Platform](https://github.com/gustavo-m-freitas/finance-forecasting-analytics-platform)**
+**📊 [Digital Finance Forecasting & Analytics Platform](https://github.com/gustavo-m-freitas/finance-forecasting-analytics-platform)**
 
 End-to-end **Finance Data Stack** that integrates financial modeling, data engineering, statistical forecasting, and business intelligence into a unified analytics platform.
 
@@ -44,25 +44,25 @@ Key components:
 
 The project demonstrates how modern finance teams can move from spreadsheet-based reporting to **scalable analytics-driven FP&A systems**.
 
-- **📈 [Volatility Forecasting with HAR-Type Models](https://github.com/gustavo-m-freitas/MSc-Thesis-R)**
+**📈 [Volatility Forecasting with HAR-Type Models](https://github.com/gustavo-m-freitas/MSc-Thesis-R)**
 
 Master’s thesis in Finance (University of Minho) investigating **financial market volatility forecasting** using **HAR-type econometric models** implemented in **R**.  
 
 The research evaluates **16 variations of HAR-based models** applied to **FTSE-100 realized volatility**, incorporating jumps, signed jumps, realized semivariance, and leverage effects, with model performance assessed through multiple loss functions and statistical validation techniques.
 
-- **💰[Bankruptcy Prediction](https://github.com/gustavo-m-freitas/Bankruptcy-Prediction)**
+**💰[Bankruptcy Prediction](https://github.com/gustavo-m-freitas/Bankruptcy-Prediction)**
   
 Predicting corporate financial distress using **machine learning** and **financial data analysis**. Implements **Random Forest, XGBoost, SVM**, and more to classify bankrupt vs. non-bankrupt companies.
 
-- **🏦[Bank Customer Churn Prediction](https://github.com/gustavo-m-freitas/Bank-Churn)**
+**🏦[Bank Customer Churn Prediction](https://github.com/gustavo-m-freitas/Bank-Churn)**
 
 Predicting customer churn in the banking sector using **machine learning** and **customer data analysis**. Models compared include **Random Forest, XGBoost**, and **SVM**, with an emphasis on optimizing recall over accuracy for better retention strategies.
 
-- **📡[Telecom Customer Churn Prediction](https://github.com/gustavo-m-freitas/Telecom_Churn)**
+**📡[Telecom Customer Churn Prediction](https://github.com/gustavo-m-freitas/Telecom_Churn)**
 
 Predicting customer churn in the telecom industry using **machine learning** and **feature selection techniques**. Implements **Random Forest, XGBoost, and CatBoost**, with **data balancing (SMOTE, undersampling)** and **hyperparameter tuning** to maximize recall and identify at-risk customers.
 
-- **🚀[Provento-Manager](https://github.com/gustavo-m-freitas/Provento-Manager)**
+**🚀[Provento-Manager](https://github.com/gustavo-m-freitas/Provento-Manager)**
   
 A web application for startup acceleration and mentorship management.
 
