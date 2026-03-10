@@ -30,7 +30,7 @@ Power BI, Tableau, dashboard design, financial performance monitoring, executive
 
 ## 🚀 Featured Projects
 
-### 📊 [Digital Finance Forecasting & Analytics Platform](https://github.com/gustavo-m-freitas/finance-forecasting-analytics-platform)
+- 📊 [Digital Finance Forecasting & Analytics Platform](https://github.com/gustavo-m-freitas/finance-forecasting-analytics-platform)
 
 End-to-end **Finance Data Stack** that integrates financial modeling, data engineering, statistical forecasting, and business intelligence into a unified analytics platform.
 
@@ -44,8 +44,8 @@ Key components:
 
 The project demonstrates how modern finance teams can move from spreadsheet-based reporting to **scalable analytics-driven FP&A systems**.
 
-- **[Volatility Forecasting with HAR-Type Models](https://github.com/gustavo-m-freitas/MSc-Thesis-R)**  
-  📊 Statistical model for forecasting financial market volatility using R and econometrics.
+- 📊 [Volatility Forecasting with HAR-Type Models](https://github.com/gustavo-m-freitas/MSc-Thesis-R)
+  **Statistical model for forecasting financial market volatility using R and econometrics.**
 
 - **[Provento-Manager](https://github.com/gustavo-m-freitas/Provento-Manager)**  
   📈 A web application for startup acceleration and mentorship management.
