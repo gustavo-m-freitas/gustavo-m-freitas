@@ -6,20 +6,43 @@ Finance professional with a solid background in corporate finance, consulting, a
 
 Proven ability to translate financial language into digital solutions, redesign reporting processes, and develop KPI frameworks to enhance decision-making. Skilled in business partnering, financial modeling, FP&A, and valuation, complemented by hands-on expertise in Python, R, SQL, and BI tools (Power BI, Tableau). Additional training includes IBM certifications in data analytics and automation and CFI’s Business Intelligence & Data Analyst program, strengthening capabilities in financial data transformation. Experienced in applying data analytics and machine learning techniques in finance projects, including automation of forecasting and dashboard solutions. Positioned to drive finance transformation and digital finance initiatives in global organizations, bridging financial strategy, technology, and business transformation.
 
+---
+
+# 🔧 Technical Skills
+
+📌 **Financial Modeling & FP&A**  
+Valuation (DCF, Multiples), integrated financial statements (P&L, Balance Sheet, Cash Flow), forecasting, budgeting, scenario analysis, KPI frameworks, capital allocation.
+
+📌 **Finance Data & Analytics**  
+Financial data pipelines, data warehousing, IFRS reporting structures, financial forecasting models, scenario simulation, variance analysis.
+
+📌 **Programming & Data Engineering**  
+Python (Pandas, NumPy, SQLAlchemy, statsmodels), R, SQL, Excel (advanced), Power Query, ETL/ELT pipelines.
+
+📌 **Data Science & Forecasting**  
+Statistics, time-series modeling, SARIMA models, machine learning applications in finance, predictive analytics.
+
+📌 **Business Intelligence & Visualization**  
+Power BI, Tableau, dashboard design, financial performance monitoring, executive reporting.
 
 ---
 
-🔧 **Technical Skills**
-
-📌 **Financial Modeling & FP&A:** Valuation (DCF, Multiples), integrated financial statements (P&L, Balance Sheet, Cash Flow), FP&A practices (scenario & sensitivity analysis, budgeting, forecasting, capital allocation, KPI tracking). <br>
-📌 **Programming & Automation:** Excel (advanced), Power Query, Python, R, SQL – applied to forecasting, modeling, reporting, and financial dashboards. <br>
-📌 **Data Science & Machine Learning:** Statistics, Predictive Models, Time Series, Data Visualization. <br>
-📌 **Business Intelligence & Data Analysis:** Power BI, Tableau, Azure Data Studio, ETL/ELT. <br>
-📌 **Web & Data-Driven Applications:** Python (Django), APIs, Automation, Business Intelligence. <br>
-
----
 
 ## 🚀 Featured Projects
+
+### 📊 [Digital Finance Forecasting & Analytics Platform](https://github.com/gustavo-m-freitas/finance-forecasting-analytics-platform)
+
+End-to-end **Finance Data Stack** that integrates financial modeling, data engineering, statistical forecasting, and business intelligence into a unified analytics platform.
+
+Key components:
+
+• Integrated **IFRS 3-Statement financial model (Excel)**  
+• **Financial Data Warehouse (PostgreSQL Star Schema)**  
+• **Python automation pipeline** for financial reporting  
+• **Statistical forecasting models (SARIMA)** and scenario simulation  
+• **Power BI executive dashboards**
+
+The project demonstrates how modern finance teams can move from spreadsheet-based reporting to **scalable analytics-driven FP&A systems**.
 
 - **[Volatility Forecasting with HAR-Type Models](https://github.com/gustavo-m-freitas/MSc-Thesis-R)**  
   📊 Statistical model for forecasting financial market volatility using R and econometrics.
