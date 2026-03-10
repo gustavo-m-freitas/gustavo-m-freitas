@@ -50,10 +50,6 @@ Master’s thesis in Finance (University of Minho) investigating **financial mar
 
 The research evaluates **16 variations of HAR-based models** applied to **FTSE-100 realized volatility**, incorporating jumps, signed jumps, realized semivariance, and leverage effects, with model performance assessed through multiple loss functions and statistical validation techniques.
 
-- **🚀[Provento-Manager](https://github.com/gustavo-m-freitas/Provento-Manager)**
-  
-A web application for startup acceleration and mentorship management.
-
 - **💰[Bankruptcy Prediction](https://github.com/gustavo-m-freitas/Bankruptcy-Prediction)**
   
 Predicting corporate financial distress using **machine learning** and **financial data analysis**. Implements **Random Forest, XGBoost, SVM**, and more to classify bankrupt vs. non-bankrupt companies.
@@ -65,6 +61,10 @@ Predicting customer churn in the banking sector using **machine learning** and *
 - **📡[Telecom Customer Churn Prediction](https://github.com/gustavo-m-freitas/Telecom_Churn)**
 
 Predicting customer churn in the telecom industry using **machine learning** and **feature selection techniques**. Implements **Random Forest, XGBoost, and CatBoost**, with **data balancing (SMOTE, undersampling)** and **hyperparameter tuning** to maximize recall and identify at-risk customers.
+
+- **🚀[Provento-Manager](https://github.com/gustavo-m-freitas/Provento-Manager)**
+  
+A web application for startup acceleration and mentorship management.
 
 ---
 
