@@ -7,6 +7,7 @@ Senior FP&A and Finance Transformation professional with 15+ years of experience
 Recent work includes reporting automation, KPI frameworks, forecasting workflows and finance data models that support decision-making in modern FP&A environments. Build integrated finance analytics workflows combining financial modeling, data pipelines, statistical forecasting and BI dashboards.
 
 **Core expertise **
+
 FP&A | Financial Modeling | Forecasting | Finance Analytics | Python | SQL | Power BI | Data Modeling
 
 
