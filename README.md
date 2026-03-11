@@ -1,6 +1,6 @@
 # Gustavo Freitas
 
-📈 **Finance Transformation  | Business Analyst  | Quantitative Finance**
+📈 **Finance Transformation | FP&A Analytics | Financial Modeling | Python | SQL | Power BI**
 
 Finance professional with a solid background in corporate finance, consulting, and quantitative methods, specialized in Finance Transformation and process optimization. Combines over a decade of experience in financial consulting with advanced technical skills in automation, analytics, and financial systems. Holds a Bachelor’s degree in Economics, a Master’s in Finance from the University of Minho, and pursued PhD studies in Economics (currently on hold). Formerly certified as an Investment Analyst (CNPI – Brazil), with current international credentials as FMVA® and FP&A™ (Corporate Finance Institute).
 
