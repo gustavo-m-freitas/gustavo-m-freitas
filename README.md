@@ -1,10 +1,14 @@
 # Gustavo Freitas
 
-📈 **Finance Transformation | FP&A Analytics | Financial Modeling | Python | SQL | Power BI**
+📈 **FP&A | Financial Modeling | Forecasting | Python | SQL | Power BI**
 
-Finance professional with a solid background in corporate finance, consulting, and quantitative methods, specialized in Finance Transformation and process optimization. Combines over a decade of experience in financial consulting with advanced technical skills in automation, analytics, and financial systems. Holds a Bachelor’s degree in Economics, a Master’s in Finance from the University of Minho, and pursued PhD studies in Economics (currently on hold). Formerly certified as an Investment Analyst (CNPI – Brazil), with current international credentials as FMVA® and FP&A™ (Corporate Finance Institute).
+Senior FP&A and Finance Transformation professional with 15+ years of experience in financial modeling, reporting, forecasting and finance analytics. Design reporting, forecasting and performance management solutions by translating finance requirements into scalable analytical workflows using Python, SQL, Excel and BI tools.
 
-Proven ability to translate financial language into digital solutions, redesign reporting processes, and develop KPI frameworks to enhance decision-making. Skilled in business partnering, financial modeling, FP&A, and valuation, complemented by hands-on expertise in Python, R, SQL, and BI tools (Power BI, Tableau). Additional training includes IBM certifications in data analytics and automation and CFI’s Business Intelligence & Data Analyst program, strengthening capabilities in financial data transformation. Experienced in applying data analytics and machine learning techniques in finance projects, including automation of forecasting and dashboard solutions. Positioned to drive finance transformation and digital finance initiatives in global organizations, bridging financial strategy, technology, and business transformation.
+Recent work includes reporting automation, KPI frameworks, forecasting workflows and finance data models that support decision-making in modern FP&A environments. Build integrated finance analytics workflows combining financial modeling, data pipelines, statistical forecasting and BI dashboards.
+
+**Core expertise **
+FP&A | Financial Modeling | Forecasting | Finance Analytics | Python | SQL | Power BI | Data Modeling
+
 
 ---
 
