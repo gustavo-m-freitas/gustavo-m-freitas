@@ -76,7 +76,7 @@ A web application for startup acceleration and mentorship management.
 ## 📫 Contact & Links
 
 📩 **Email:** gustavo.provento@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/gustavomfreitas](https://www.linkedin.com/in/gustavo-m-freitas)  
+💼 **LinkedIn:** [linkedin.com/in/gustavomfreitas](https://www.linkedin.com/in/gustavo-m-freitas/)  
 📂 **GitHub:** [github.com/gustavomfreitas](https://github.com/gustavo-m-freitas)  
 🌍 **Provento Gestor:** [gustmf.pythonanywhere.com](https://gustmf.pythonanywhere.com)
 
